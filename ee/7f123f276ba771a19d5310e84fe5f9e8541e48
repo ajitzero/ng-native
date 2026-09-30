@@ -1,0 +1,27 @@
+apps/documentation/src/learn/preview/native-css.ts
+  s_697cefeb6167da::t_7661aae3b95fd3 66
+  s_697cefeb6167da::t_05a9eaf253d560 67-68,71,77,79
+  s_697cefeb6167da::t_ca4bc1e8c509fd 65
+  s_697cefeb6167da::t_42d0a74532a12b 38-48
+  s_697cefeb6167da::t_d0009a541c2b24 13-15
+apps/documentation/src/learn/preview/native-css-sources.test.ts
+  s_697cefeb6167da::t_7661aae3b95fd3 10,27
+  s_697cefeb6167da::t_ab668d24158631 30
+  s_697cefeb6167da::t_41adcb7e851003 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ee7f123f276ba771a19d5310e84fe5f9e8541e48",
+  "prompts": {},
+  "sessions": {
+    "s_697cefeb6167da": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f10c25864ffegtbgenD2ps87D7",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "Ajit Panigrahi <ajitzero@gmail.com>"
+    }
+  }
+}
